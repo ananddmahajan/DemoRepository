@@ -1,0 +1,111 @@
+Analyzing 7 files:
+.......
+
+********** ./DemoApp/AppDelegate.swift **********
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:17:101: warning: [max-line-length] Line is over maximum character limit (145/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:23:101: warning: [max-line-length] Line is over maximum character limit (285/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:24:101: warning: [max-line-length] Line is over maximum character limit (159/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:28:101: warning: [max-line-length] Line is over maximum character limit (218/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:29:101: warning: [max-line-length] Line is over maximum character limit (141/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:33:101: warning: [max-line-length] Line is over maximum character limit (155/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:37:101: warning: [max-line-length] Line is over maximum character limit (194/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:41:101: warning: [max-line-length] Line is over maximum character limit (128/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/AppDelegate.swift:46: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./DemoApp/FirstVCCollectionViewCell.swift **********
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstVCCollectionViewCell.swift:13:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstVCCollectionViewCell.swift:15:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstVCCollectionViewCell.swift:18:6: warning: [function-whitespace] Function should have at least one blank line after it
+
+********** ./DemoApp/FirstViewController.swift **********
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:14:101: warning: [max-line-length] Line is over maximum character limit (106/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:15:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:18:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:19:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:20:59: warning: [colon-whitespace] Colon at column 59 should have exactly one space after it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:20:59: warning: [colon-whitespace] Colon at column 59 should have no spaces before it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:20:67: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:22:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:23:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:24:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:27:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:28:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:32:5: warning: [function-whitespace] Function should have at least one blank line before it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:32:93: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:32:101: warning: [max-line-length] Line is over maximum character limit (105/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:32:101: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:35:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:36:101: warning: [max-line-length] Line is over maximum character limit (121/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:37:101: warning: [max-line-length] Line is over maximum character limit (150/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:37:124: warning: [forced-type-cast] Force casts should be avoided
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:38:19: warning: [colon-whitespace] Colon at column 19 should have no spaces before it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:56:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:60:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:62:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:63:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:100:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:101:25: warning: [brace-style] Opening brace should have exactly one space before it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:104:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:105:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:501: warning: [max-file-length] File is over maximum line limit (4754/500)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4726:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4727:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4728:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4729:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4731:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4733:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4734:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4738:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4742:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4745:30: warning: [colon-whitespace] Colon at column 30 should have exactly one space after it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4746:5: warning: [function-whitespace] Function should have at least one blank line before it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4746:101: warning: [max-line-length] Line is over maximum character limit (175/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4746:159: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4749:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4750:101: warning: [max-line-length] Line is over maximum character limit (170/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4750:154: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4752:6: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/FirstViewController.swift:4754: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./DemoApp/SecondViewController.swift **********
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:14:5: warning: [function-whitespace] Function should have at least one blank line before it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:18:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:21:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:25:15: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:28:15: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:32:15: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:35:15: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:38:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:42:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:46:5: warning: [function-whitespace] Function should have at least one blank line before it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:46:77: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:46:85: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:49:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:51:101: warning: [forced-type-cast] Force casts should be avoided
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:51:101: warning: [max-line-length] Line is over maximum character limit (123/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:53:11: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:54:101: warning: [max-line-length] Line is over maximum character limit (102/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:59:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:61:101: warning: [max-line-length] Line is over maximum character limit (103/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:64:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:68:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:70:61: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:70:101: warning: [max-line-length] Line is over maximum character limit (106/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:71:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:77:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:79:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:88:6: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/pepsico_1/Desktop/DemoApp/DemoApp/SecondViewController.swift:90: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./DemoAppTests/DemoAppTests.swift **********
+/Users/pepsico_1/Desktop/DemoApp/DemoAppTests/DemoAppTests.swift:15:101: warning: [max-line-length] Line is over maximum character limit (109/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoAppTests/DemoAppTests.swift:19:101: warning: [max-line-length] Line is over maximum character limit (111/100)
+
+********** ./DemoAppUITests/DemoAppUITests.swift **********
+/Users/pepsico_1/Desktop/DemoApp/DemoAppUITests/DemoAppUITests.swift:14:101: warning: [max-line-length] Line is over maximum character limit (109/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoAppUITests/DemoAppUITests.swift:19:101: warning: [max-line-length] Line is over maximum character limit (131/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoAppUITests/DemoAppUITests.swift:22:101: warning: [max-line-length] Line is over maximum character limit (182/100)
+/Users/pepsico_1/Desktop/DemoApp/DemoAppUITests/DemoAppUITests.swift:26:101: warning: [max-line-length] Line is over maximum character limit (111/100)
+
+Analyzed 7 files, skipped 0 files, and detected 94 violations (0 errors, 94 warnings).
+

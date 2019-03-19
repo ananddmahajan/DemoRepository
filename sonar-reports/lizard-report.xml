@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+	<measure type="Function">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+		</labels>
+		<item name="setUp(...) at ./DemoAppTests/DemoAppTests.swift:14">
+			<value>1</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="tearDown(...) at ./DemoAppTests/DemoAppTests.swift:18">
+			<value>2</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="testExample(...) at ./DemoAppTests/DemoAppTests.swift:22">
+			<value>3</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="testPerformanceExample(...) at ./DemoAppTests/DemoAppTests.swift:27">
+			<value>4</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="2.5"/>
+		<average label="CCN" value="1.0"/>
+		<item name="awakeFromNib(...) at ./DemoApp/SecondVCTableViewCell.swift:17">
+			<value>5</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="setSelected(...) at ./DemoApp/SecondVCTableViewCell.swift:22">
+			<value>6</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="2.6666666666666665"/>
+		<average label="CCN" value="1.0"/>
+		<item name="viewDidLoad(...) at ./DemoApp/FirstViewController.swift:16">
+			<value>7</value>
+			<value>5</value>
+			<value>1</value>
+		</item>
+		<item name="collectionView(...) at ./DemoApp/FirstViewController.swift:32">
+			<value>8</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="collectionView(...) at ./DemoApp/FirstViewController.swift:36">
+			<value>9</value>
+			<value>4687</value>
+			<value>1560</value>
+		</item>
+		<item name="collectionView(...) at ./DemoApp/FirstViewController.swift:4739">
+			<value>10</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="collectionView(...) at ./DemoApp/FirstViewController.swift:4746">
+			<value>11</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="collectionView(...) at ./DemoApp/FirstViewController.swift:4750">
+			<value>12</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="393.3333333333333"/>
+		<average label="CCN" value="130.91666666666666"/>
+		<item name="awakeFromNib(...) at ./DemoApp/FirstVCCollectionViewCell.swift:16">
+			<value>13</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="363.2307692307692"/>
+		<average label="CCN" value="120.92307692307692"/>
+		<item name="application(...) at ./DemoApp/AppDelegate.swift:17">
+			<value>14</value>
+			<value>3</value>
+			<value>2</value>
+		</item>
+		<item name="applicationWillResignActive(...) at ./DemoApp/AppDelegate.swift:22">
+			<value>15</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidEnterBackground(...) at ./DemoApp/AppDelegate.swift:27">
+			<value>16</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillEnterForeground(...) at ./DemoApp/AppDelegate.swift:32">
+			<value>17</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidBecomeActive(...) at ./DemoApp/AppDelegate.swift:36">
+			<value>18</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillTerminate(...) at ./DemoApp/AppDelegate.swift:40">
+			<value>19</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="249.21052631578948"/>
+		<average label="CCN" value="83.10526315789474"/>
+		<item name="viewDidLoad(...) at ./DemoApp/SecondViewController.swift:14">
+			<value>20</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="selectNetworkAction(...) at ./DemoApp/SecondViewController.swift:19">
+			<value>21</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="handleLongPress(...) at ./DemoApp/SecondViewController.swift:22">
+			<value>22</value>
+			<value>12</value>
+			<value>5</value>
+		</item>
+		<item name="handleDoubleTap(...) at ./DemoApp/SecondViewController.swift:39">
+			<value>23</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at ./DemoApp/SecondViewController.swift:46">
+			<value>24</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at ./DemoApp/SecondViewController.swift:50">
+			<value>25</value>
+			<value>13</value>
+			<value>2</value>
+		</item>
+		<item name="tableView(...) at ./DemoApp/SecondViewController.swift:69">
+			<value>26</value>
+			<value>7</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at ./DemoApp/SecondViewController.swift:80">
+			<value>27</value>
+			<value>8</value>
+			<value>3</value>
+		</item>
+		<average label="NCSS" value="177.25925925925927"/>
+		<average label="CCN" value="59.03703703703704"/>
+		<item name="setUp(...) at ./DemoAppUITests/DemoAppUITests.swift:13">
+			<value>28</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<item name="tearDown(...) at ./DemoAppUITests/DemoAppUITests.swift:25">
+			<value>29</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="testExample(...) at ./DemoAppUITests/DemoAppUITests.swift:29">
+			<value>30</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="159.8"/>
+		<average label="CCN" value="53.233333333333334"/>
+	</measure>
+	<measure type="File">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+			<label>Functions</label>
+		</labels>
+		<item name="./DemoAppTests/DemoAppTests.swift">
+			<value>1</value>
+			<value>14</value>
+			<value>4</value>
+			<value>4</value>
+		</item>
+		<item name="./DemoApp/SecondVCTableViewCell.swift">
+			<value>2</value>
+			<value>12</value>
+			<value>2</value>
+			<value>2</value>
+		</item>
+		<item name="./DemoApp/FirstViewController.swift">
+			<value>3</value>
+			<value>4713</value>
+			<value>1565</value>
+			<value>6</value>
+		</item>
+		<item name="./DemoApp/FirstVCCollectionViewCell.swift">
+			<value>4</value>
+			<value>7</value>
+			<value>1</value>
+			<value>1</value>
+		</item>
+		<item name="./DemoApp/AppDelegate.swift">
+			<value>5</value>
+			<value>18</value>
+			<value>7</value>
+			<value>6</value>
+		</item>
+		<item name="./DemoApp/SecondViewController.swift">
+			<value>6</value>
+			<value>57</value>
+			<value>15</value>
+			<value>8</value>
+		</item>
+		<item name="./DemoAppUITests/DemoAppUITests.swift">
+			<value>7</value>
+			<value>11</value>
+			<value>3</value>
+			<value>3</value>
+		</item>
+		<average label="NCSS" value="690.2857142857143"/>
+		<average label="CCN" value="228.14285714285714"/>
+		<average label="Functions" value="4.285714285714286"/>
+		<sum label="NCSS" value="4832"/>
+		<sum label="CCN" value="1597"/>
+		<sum label="Functions" value="30"/>
+		<average label="NCSS" value="159.8"/>
+		<average label="CCN" value="53.233333333333334"/>
+	</measure>
+</cppncss>
+
